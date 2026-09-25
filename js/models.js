@@ -1,6 +1,6 @@
 "use strict";
 
-const BASE_URL = "https://hack-or-snooze-v3.herokuapp.com";
+const BASE_URL = "https://hack-or-snooze-api.onrender.com";
 
 /******************************************************************************
  * Story: a single story in the system
